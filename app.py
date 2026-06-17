@@ -8,7 +8,7 @@ st.set_page_config(
     page_icon="🇧🇪",
     layout="wide"
 )
-
+#test update
 
 # --- 1. CORRECTED CALCULATION FUNCTION ---
 def calculate_margin(cow_count, avg_milk_ltrs, milk_price, feed_items, other_costs_herd):
